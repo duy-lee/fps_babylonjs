@@ -1,0 +1,1 @@
+import{Ao as e,ko as t}from"./index-Cd4seyER.js";t();export{e as meshUVSpaceRendererMaskerVertexShaderWGSL};

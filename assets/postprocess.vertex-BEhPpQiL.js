@@ -1,0 +1,1 @@
+import{cg as e,lg as t}from"./index-Cd4seyER.js";e();export{t as postprocessVertexShader};

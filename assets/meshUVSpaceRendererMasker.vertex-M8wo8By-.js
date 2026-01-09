@@ -1,1 +1,0 @@
-import{Ao as e,ko as t}from"./index-xCE5Km30.js";t();export{e as meshUVSpaceRendererMaskerVertexShaderWGSL};

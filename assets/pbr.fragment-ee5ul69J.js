@@ -1,0 +1,1 @@
+import{vc as e,yc as t}from"./index-Cd4seyER.js";e();export{t as pbrPixelShaderWGSL};

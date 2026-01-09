@@ -1,0 +1,1 @@
+import{Bo as e,zo as t}from"./index-Cd4seyER.js";t();export{e as meshUVSpaceRendererMaskerPixelShader};

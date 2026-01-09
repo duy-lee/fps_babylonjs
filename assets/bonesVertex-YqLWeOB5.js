@@ -1,1 +1,0 @@
-import{Kh as e,qh as t}from"./index-xCE5Km30.js";t();export{e as bonesVertex};

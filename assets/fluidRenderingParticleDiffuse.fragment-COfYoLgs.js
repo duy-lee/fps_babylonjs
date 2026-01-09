@@ -1,1 +1,0 @@
-import{ir as e,rr as t}from"./index-xCE5Km30.js";e();export{t as fluidRenderingParticleDiffusePixelShaderWGSL};

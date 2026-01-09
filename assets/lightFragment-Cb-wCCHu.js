@@ -1,0 +1,1 @@
+import{dl as e,fl as t}from"./index-Cd4seyER.js";e();export{t as lightFragmentWGSL};

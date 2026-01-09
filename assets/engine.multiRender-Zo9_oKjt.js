@@ -1,0 +1,1 @@
+import{Ch as e}from"./index-Cd4seyER.js";e();

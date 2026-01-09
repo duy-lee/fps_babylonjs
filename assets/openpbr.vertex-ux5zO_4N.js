@@ -1,0 +1,1 @@
+import{oc as e,sc as t}from"./index-Cd4seyER.js";e();export{t as openpbrVertexShaderWGSL};

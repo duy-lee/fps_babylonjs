@@ -1,1 +1,0 @@
-import{Ac as e,Oc as t,kc as n}from"./index-xCE5Km30.js";e();export{t as OpenPBRMaterial};

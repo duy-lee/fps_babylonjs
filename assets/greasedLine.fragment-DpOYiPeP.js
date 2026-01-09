@@ -1,0 +1,1 @@
+import{ns as e,ts as t}from"./index-Cd4seyER.js";e();export{t as greasedLinePixelShaderWGSL};

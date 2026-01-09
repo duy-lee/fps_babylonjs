@@ -1,0 +1,1 @@
+import{Uo as e,Wo as t}from"./index-Cd4seyER.js";e();export{t as meshUVSpaceRendererPixelShader};

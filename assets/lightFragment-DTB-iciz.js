@@ -1,0 +1,1 @@
+import{Lc as e,Rc as t}from"./index-Cd4seyER.js";e();export{t as lightFragment};

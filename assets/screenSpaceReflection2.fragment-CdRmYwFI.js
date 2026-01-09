@@ -1,1 +1,0 @@
-import{Ma as e,ja as t}from"./index-xCE5Km30.js";t();export{e as screenSpaceReflection2PixelShader};

@@ -1,0 +1,1 @@
+import{$i as e,ea as t}from"./index-Cd4seyER.js";e();export{t as passPixelShaderWGSL};

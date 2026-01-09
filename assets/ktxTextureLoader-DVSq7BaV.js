@@ -1,1 +1,0 @@
-import{ld as e,ud as t}from"./index-xCE5Km30.js";t();export{e as _KTXTextureLoader};

@@ -1,1 +1,0 @@
-import{Ln as e,Rn as t}from"./index-xCE5Km30.js";e();export{t as rsmGlobalIlluminationPixelShaderWGSL};

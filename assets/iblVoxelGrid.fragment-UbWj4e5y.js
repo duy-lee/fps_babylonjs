@@ -1,0 +1,1 @@
+import{X as e,Y as t}from"./index-Cd4seyER.js";e();export{t as iblVoxelGridPixelShaderWGSL};

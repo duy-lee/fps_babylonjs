@@ -1,0 +1,1 @@
+import{_d as e,vd as t}from"./index-Cd4seyER.js";t();export{e as PBRMaterial};

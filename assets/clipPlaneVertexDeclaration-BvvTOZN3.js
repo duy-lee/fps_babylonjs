@@ -1,1 +1,0 @@
-import{Xu as e,Yu as t}from"./index-xCE5Km30.js";e();export{t as clipPlaneVertexDeclarationWGSL};

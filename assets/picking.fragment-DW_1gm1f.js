@@ -1,1 +1,0 @@
-import{Hh as e,Uh as t}from"./index-xCE5Km30.js";e();export{t as pickingPixelShaderWGSL};

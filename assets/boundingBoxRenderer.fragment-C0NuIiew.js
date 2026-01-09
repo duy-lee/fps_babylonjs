@@ -1,0 +1,1 @@
+import{Sn as e,xn as t}from"./index-Cd4seyER.js";e();export{t as boundingBoxRendererPixelShaderWGSL};

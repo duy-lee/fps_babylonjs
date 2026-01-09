@@ -1,1 +1,0 @@
-import{ni as e,ti as t}from"./index-xCE5Km30.js";e();export{t as convolutionPixelShader};

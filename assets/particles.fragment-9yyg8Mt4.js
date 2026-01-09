@@ -1,0 +1,1 @@
+import{Qa as e,Za as t}from"./index-Cd4seyER.js";t();export{e as particlesPixelShaderWGSL};

@@ -1,2 +1,0 @@
-import{Eg as e,Tg as t,wg as n}from"./index-xCE5Km30.js";var r,i,a;e((()=>{t(),r=`oitFinalSimpleBlendPixelShader`,i=`precision highp float;uniform sampler2D uFrontColor;void main() {ivec2 fragCoord=ivec2(gl_FragCoord.xy);vec4 frontColor=texelFetch(uFrontColor,fragCoord,0);glFragColor=frontColor;}
-`,n.ShadersStore[r]||(n.ShadersStore[r]=i),a={name:r,shader:i}}))();export{a as oitFinalSimpleBlendPixelShader};

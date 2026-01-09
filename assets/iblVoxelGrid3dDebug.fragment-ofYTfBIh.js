@@ -1,1 +1,0 @@
-import{G as e,K as t}from"./index-xCE5Km30.js";t();export{e as iblVoxelGrid3dDebugPixelShader};

@@ -1,1 +1,0 @@
-import{_a as e,va as t}from"./index-xCE5Km30.js";e();export{t as taaPixelShaderWGSL};

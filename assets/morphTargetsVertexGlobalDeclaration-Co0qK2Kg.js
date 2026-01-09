@@ -1,0 +1,1 @@
+import{eg as e,tg as t}from"./index-Cd4seyER.js";e();export{t as morphTargetsVertexGlobalDeclaration};

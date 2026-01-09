@@ -1,1 +1,0 @@
-import{go as e,ho as t}from"./index-xCE5Km30.js";t();export{e as lodPixelShaderWGSL};

@@ -1,1 +1,0 @@
-import{ec as e,tc as t}from"./index-xCE5Km30.js";e();export{t as openpbrPixelShader};

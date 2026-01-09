@@ -1,1 +1,0 @@
-import{Bs as e,zs as t}from"./index-xCE5Km30.js";t();export{e as proceduralVertexShader};

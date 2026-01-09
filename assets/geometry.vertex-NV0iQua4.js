@@ -1,1 +1,0 @@
-import{Ga as e,Ka as t}from"./index-xCE5Km30.js";t();export{e as geometryVertexShader};

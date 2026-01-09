@@ -1,1 +1,0 @@
-import{an as e,on as t}from"./index-xCE5Km30.js";e();export{t as outlinePixelShaderWGSL};

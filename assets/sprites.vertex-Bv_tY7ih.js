@@ -1,1 +1,0 @@
-import{C as e,w as t}from"./index-xCE5Km30.js";e();export{t as spritesVertexShaderWGSL};

@@ -1,0 +1,1 @@
+import{cs as e,ss as t}from"./index-Cd4seyER.js";e();export{t as defaultVertexShaderWGSL};

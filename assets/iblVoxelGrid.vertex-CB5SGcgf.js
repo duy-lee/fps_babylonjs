@@ -1,1 +1,0 @@
-import{J as e,q as t}from"./index-xCE5Km30.js";e();export{t as iblVoxelGridVertexShaderWGSL};

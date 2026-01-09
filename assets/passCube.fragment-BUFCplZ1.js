@@ -1,1 +1,0 @@
-import{Qi as e,Zi as t}from"./index-xCE5Km30.js";t();export{e as passCubePixelShaderWGSL};

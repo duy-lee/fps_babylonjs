@@ -1,0 +1,1 @@
+import{ng as e,rg as t}from"./index-Cd4seyER.js";t();export{e as bonesDeclaration};

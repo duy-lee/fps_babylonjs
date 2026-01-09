@@ -1,1 +1,0 @@
-import{_d as e,vd as t}from"./index-xCE5Km30.js";t();export{e as PBRMaterial};

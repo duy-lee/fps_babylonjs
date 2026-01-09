@@ -1,0 +1,1 @@
+import{$ as e,et as t}from"./index-Cd4seyER.js";t();export{e as iblVoxelGridPixelShader};

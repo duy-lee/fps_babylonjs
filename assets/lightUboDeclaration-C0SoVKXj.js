@@ -1,0 +1,1 @@
+import{Jc as e,qc as t}from"./index-Cd4seyER.js";t();export{e as lightUboDeclaration};

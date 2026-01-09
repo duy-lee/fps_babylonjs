@@ -1,0 +1,1 @@
+import{An as e,kn as t}from"./index-Cd4seyER.js";e();export{t as geometryPixelShaderWGSL};

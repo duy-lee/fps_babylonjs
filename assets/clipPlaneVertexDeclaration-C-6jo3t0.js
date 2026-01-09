@@ -1,0 +1,1 @@
+import{Xu as e,Yu as t}from"./index-Cd4seyER.js";e();export{t as clipPlaneVertexDeclarationWGSL};

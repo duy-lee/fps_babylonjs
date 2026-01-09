@@ -1,0 +1,1 @@
+import{Dl as e,Ol as t}from"./index-Cd4seyER.js";t();export{e as backgroundVertexShaderWGSL};

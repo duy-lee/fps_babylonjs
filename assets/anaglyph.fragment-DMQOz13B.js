@@ -1,0 +1,1 @@
+import{ii as e,ri as t}from"./index-Cd4seyER.js";e();export{t as anaglyphPixelShaderWGSL};

@@ -1,1 +1,0 @@
-import{Fl as e,Il as t}from"./index-xCE5Km30.js";e();export{t as lightProxyPixelShaderWGSL};

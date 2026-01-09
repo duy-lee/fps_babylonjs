@@ -1,0 +1,1 @@
+import{Xh as e,Zh as t}from"./index-Cd4seyER.js";e();export{t as morphTargetsVertexGlobal};

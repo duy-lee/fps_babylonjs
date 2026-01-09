@@ -1,0 +1,1 @@
+import{ia as e,ra as t}from"./index-Cd4seyER.js";t();export{e as passPixelShader};

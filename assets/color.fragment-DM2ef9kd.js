@@ -1,0 +1,1 @@
+import{Xo as e,Yo as t}from"./index-Cd4seyER.js";e();export{t as colorPixelShaderWGSL};

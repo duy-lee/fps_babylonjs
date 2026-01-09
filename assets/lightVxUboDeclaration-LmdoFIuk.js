@@ -1,0 +1,1 @@
+import{Ml as e,jl as t}from"./index-Cd4seyER.js";t();export{e as lightVxUboDeclarationWGSL};

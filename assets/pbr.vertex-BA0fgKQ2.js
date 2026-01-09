@@ -1,1 +1,0 @@
-import{_c as e,gc as t}from"./index-xCE5Km30.js";t();export{e as pbrVertexShader};

@@ -1,0 +1,1 @@
+import{Mh as e,Nh as t}from"./index-Cd4seyER.js";e();export{t as morphTargetsVertexWGSL};

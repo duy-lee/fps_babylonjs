@@ -1,0 +1,1 @@
+import{_i as e,vi as t}from"./index-Cd4seyER.js";t();export{e as fxaaPixelShader};

@@ -1,1 +1,0 @@
-import{D as e,O as t}from"./index-xCE5Km30.js";e();export{t as spritesVertexShader};

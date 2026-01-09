@@ -1,1 +1,0 @@
-import{ag as e,ig as t}from"./index-xCE5Km30.js";t();export{e as pickingPixelShader};

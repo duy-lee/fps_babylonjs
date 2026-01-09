@@ -1,0 +1,1 @@
+import{il as e,rl as t}from"./index-Cd4seyER.js";t();export{e as shadowsVertex};

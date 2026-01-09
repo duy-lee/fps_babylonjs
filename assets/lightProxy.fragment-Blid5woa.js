@@ -1,0 +1,1 @@
+import{Fl as e,Il as t}from"./index-Cd4seyER.js";e();export{t as lightProxyPixelShaderWGSL};

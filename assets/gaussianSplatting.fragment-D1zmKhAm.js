@@ -1,0 +1,1 @@
+import{Ss as e,xs as t}from"./index-Cd4seyER.js";e();export{t as gaussianSplattingPixelShader};
