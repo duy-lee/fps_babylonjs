@@ -102,7 +102,7 @@ export class GameScene {
   private async loadSky() {
     try {
       const res = await ImportMeshAsync(
-        "/src/assets/models/sky.glb",
+        "./assets/models/sky.glb",
         this.scene
       );
       const meshes = res.meshes;
@@ -130,7 +130,7 @@ export class GameScene {
   private async loadGround() {
     try {
       const res = await ImportMeshAsync(
-        "/src/assets/models/seamless__floor_tiled_texture_i.glb",
+        "./assets/models/seamless__floor_tiled_texture_i.glb",
         this.scene
       );
       const meshes = res.meshes;
@@ -259,7 +259,7 @@ export class GameScene {
   private async loadGun() {
     try {
       const res = await ImportMeshAsync(
-        "/src/assets/models/ak-74m_animations_blender.glb",
+        "./assets/models/ak-74m_animations_blender.glb",
         this.scene
       );
       const { meshes, animationGroups } = res;
