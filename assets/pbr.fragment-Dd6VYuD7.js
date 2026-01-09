@@ -1,0 +1,1 @@
+import{vc as e,yc as t}from"./index-xCE5Km30.js";e();export{t as pbrPixelShaderWGSL};

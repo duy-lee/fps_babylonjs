@@ -1,0 +1,1 @@
+import{Xs as e,Ys as t}from"./index-xCE5Km30.js";e();export{t as _TGATextureLoader};

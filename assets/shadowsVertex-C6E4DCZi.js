@@ -1,0 +1,1 @@
+import{Al as e,kl as t}from"./index-xCE5Km30.js";t();export{e as shadowsVertexWGSL};

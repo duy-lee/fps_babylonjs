@@ -1,0 +1,1 @@
+import{ii as e,ri as t}from"./index-xCE5Km30.js";e();export{t as anaglyphPixelShaderWGSL};

@@ -1,0 +1,1 @@
+import{dl as e,fl as t}from"./index-xCE5Km30.js";e();export{t as lightFragmentWGSL};

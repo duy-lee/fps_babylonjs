@@ -1,0 +1,1 @@
+import{nt as e,tt as t}from"./index-xCE5Km30.js";e();export{t as iblDominantDirectionPixelShader};

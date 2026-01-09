@@ -1,0 +1,1 @@
+import{Us as e,Ws as t}from"./index-xCE5Km30.js";t();export{e as _IESTextureLoader};

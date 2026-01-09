@@ -1,0 +1,1 @@
+import{eg as e,tg as t}from"./index-xCE5Km30.js";e();export{t as morphTargetsVertexGlobalDeclaration};

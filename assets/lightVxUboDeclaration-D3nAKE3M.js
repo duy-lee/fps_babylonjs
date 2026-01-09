@@ -1,0 +1,1 @@
+import{Ml as e,jl as t}from"./index-xCE5Km30.js";t();export{e as lightVxUboDeclarationWGSL};

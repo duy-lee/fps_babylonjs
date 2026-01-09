@@ -1,0 +1,1 @@
+import{Jo as e,qo as t}from"./index-xCE5Km30.js";e();export{t as colorVertexShaderWGSL};

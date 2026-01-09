@@ -1,0 +1,1 @@
+import{X as e,Y as t}from"./index-xCE5Km30.js";e();export{t as iblVoxelGridPixelShaderWGSL};

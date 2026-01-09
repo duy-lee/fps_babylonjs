@@ -1,0 +1,1 @@
+import{Co as e,wo as t}from"./index-xCE5Km30.js";e();export{t as meshUVSpaceRendererFinaliserVertexShaderWGSL};

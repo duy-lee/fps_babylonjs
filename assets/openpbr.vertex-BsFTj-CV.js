@@ -1,0 +1,1 @@
+import{oc as e,sc as t}from"./index-xCE5Km30.js";e();export{t as openpbrVertexShaderWGSL};

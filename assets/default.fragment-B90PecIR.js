@@ -1,0 +1,1 @@
+import{ls as e,us as t}from"./index-xCE5Km30.js";t();export{e as defaultPixelShaderWGSL};

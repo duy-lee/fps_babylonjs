@@ -1,0 +1,1 @@
+import{$h as e,Qh as t}from"./index-xCE5Km30.js";t();export{e as morphTargetsVertexDeclaration};

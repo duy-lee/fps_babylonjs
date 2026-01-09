@@ -1,0 +1,1 @@
+import{Lc as e,Rc as t}from"./index-xCE5Km30.js";e();export{t as lightFragment};

@@ -1,0 +1,1 @@
+import{Bl as e,zl as t}from"./index-xCE5Km30.js";t();export{e as lightProxyPixelShader};
