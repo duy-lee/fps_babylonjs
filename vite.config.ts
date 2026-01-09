@@ -1,5 +1,5 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "/csgo_babylonjs/",
+  base: "/fps_babylonjs/",
 });

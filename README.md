@@ -1,4 +1,4 @@
-# BabylonJS FPS Mini-Game (csgo)
+# BabylonJS FPS Mini-Game AimBall
 
 Small FPS mini-game built with Babylon.js and TypeScript.
 
